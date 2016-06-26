@@ -2,6 +2,7 @@
 This is a LLVM pass that gives you silly warnings, if your function name is too short or long.
 
 ![atl text](https://i.imgflip.com/16gs06.jpg) 
+## Inspired by http://adriansampson.net/blog/llvm.html
 
 ##Building:
 ```shell
